@@ -30,7 +30,8 @@ Step-by-Step Process:
 
 4. Results:
 
-5. Conclusion:
+
+6. Conclusion:
 Enabling PAM on an Ubuntu web server helps improves security by enforcing system-level authentication. This project shows how simple configuration changes can protect sensitive content and prevent unauthorized access.
 
 Lessons Learned:
