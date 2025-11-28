@@ -29,7 +29,7 @@ Step-by-Step Process:
 8. Review system logs to verify authentication attempts
 
 4. Results:
-
+https://github.com/LokiMoonknight/PAM-Pluggable-Authentication-Module-/blob/bd5382728ec3891c57ac5f3f44730f53ba1de054/Result%20Screenshot%20-%20Result%20Screenshot.pdf
 
 6. Conclusion:
 Enabling PAM on an Ubuntu web server helps improves security by enforcing system-level authentication. This project shows how simple configuration changes can protect sensitive content and prevent unauthorized access.
